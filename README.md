@@ -1,0 +1,1 @@
+The ETL script has been successfully executed. It extracted data for 474 universities from India, filtered down to 5 universities containing "Delhi" in their name, transformed the data by converting list fields to comma-separated strings, and loaded the results into a SQLite database file named universities.db in the Delhi_Universities table.
